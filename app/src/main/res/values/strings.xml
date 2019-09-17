@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyAppSensors</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">START</string>
+    <string name="end">END</string>
+    <string name="hack">HACK</string>
+    <string name="z">Z :</string>
+    <string name="x">X :</string>
+    <string name="y">Y :</string>
+    <string name="_0_x">0.0</string>
+    <string name="_0_y">0.0</string>
+    <string name="_0_z">0.0</string>
+    <string name="_0">0</string>
+    <string name="steps">Steps :</string>
+</resources>
